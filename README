@@ -1,0 +1,25 @@
+# 📁 File Manager App – Android
+
+A modern File Manager Android application that scans and extracts media (images, videos, audio) from the phone's storage. It allows users to view, favorite, and unfavorite their media files for quick access.
+
+---
+
+## ⚙️ Features
+
+- 📦 **Media Extraction**: Automatically scans and lists media files from local storage.
+- ❤️ **Favorites Management**: Users can mark media files as favorites and easily toggle them.
+- 🔄 **Real-time Updates**: Uses Kotlin Coroutines for smooth and responsive background operations.
+- 💾 **Local Storage**: Stores user preferences using Room Database for offline access.
+- 🧩 **Clean Architecture**: Built with MVVM, Dependency Injection (using Hilt/Dagger), and modern Android best practices.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Kotlin**
+- **Room Database**
+- **Kotlin Coroutines**
+- **Dependency Injection** – Hilt
+- **ViewModel & LiveData**
+- **RecyclerView**
+- **ContentResolver** – to access media files from device storage
