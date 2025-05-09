@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#2B99F4</color>
+    <color name="transparent">#00000073</color>
+    <color name="grey">#B4DEDBDB</color>
+    <color name="offWhite">#F9FAFC</color>
+    <color name="primary">#6200EE</color>
+    <color name="primary_variant">@color/white</color>
+    <color name="secondary">#03DAC6</color>
+<color name="darkblue"> #166BB8</color>
+    <color name="darkpurple"> #053156</color>
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+
+
+
+</resources>
